@@ -1,7 +1,7 @@
 {
   "name": "vps-manager",
   "version": "1.0.0",
-  "description": "VPS Management System by Hiếu Dz - Based on DuckNoVis",
+  "description": "Copy By Miu",
   "main": "api/create-vps.js",
   "type": "module",
   "scripts": {
